@@ -1,3 +1,3 @@
 # get_todos
 
-A new Flutter project.
+Fetched todos from jsonPlaceholder using Dependency Injection.
